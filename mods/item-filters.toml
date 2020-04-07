@@ -1,0 +1,14 @@
+name = "Item Filters"
+filename = "ItemFilters-1.0.3.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2699/980/ItemFilters-1.0.3.12.jar"
+hash-format = "murmur2"
+hash = "3245498719"
+
+[update]
+[update.curseforge]
+file-id = 2699980
+project-id = 309674
+release-channel = "beta"

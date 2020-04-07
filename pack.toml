@@ -1,0 +1,10 @@
+name = "Untitled Pack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c081847ef1940afc29d38bea31cacf7ab0447b67e63d20aff01e88f9846a41e"
+
+[versions]
+forge = "1.12.2-14.23.5.2852"
+minecraft = "1.12.2"

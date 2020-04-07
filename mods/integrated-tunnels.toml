@@ -1,0 +1,14 @@
+name = "Integrated Tunnels"
+filename = "IntegratedTunnels-1.12.2-1.6.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/817/IntegratedTunnels-1.12.2-1.6.11.jar"
+hash-format = "murmur2"
+hash = "2434804942"
+
+[update]
+[update.curseforge]
+file-id = 2920817
+project-id = 251389
+release-channel = "beta"

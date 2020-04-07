@@ -1,0 +1,14 @@
+name = "FTB Library"
+filename = "FTBLib-5.4.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar"
+hash-format = "murmur2"
+hash = "2660314712"
+
+[update]
+[update.curseforge]
+file-id = 2891572
+project-id = 237167
+release-channel = "beta"

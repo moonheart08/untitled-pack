@@ -1,0 +1,14 @@
+name = "FTB Quests"
+filename = "FTBQuests-1.8.0.237.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2827/655/FTBQuests-1.8.0.237.jar"
+hash-format = "murmur2"
+hash = "3620275040"
+
+[update]
+[update.curseforge]
+file-id = 2827655
+project-id = 289412
+release-channel = "beta"

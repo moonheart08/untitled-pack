@@ -1,0 +1,14 @@
+name = "Just Enough Items (JEI)"
+filename = "jei_1.12.2-4.15.0.293.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2847/112/jei_1.12.2-4.15.0.293.jar"
+hash-format = "murmur2"
+hash = "3097301870"
+
+[update]
+[update.curseforge]
+file-id = 2847112
+project-id = 238222
+release-channel = "beta"

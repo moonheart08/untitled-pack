@@ -1,0 +1,14 @@
+name = "/dank/null"
+filename = "DankNull-1.12.2-1.7.91.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2920/596/DankNull-1.12.2-1.7.91.jar"
+hash-format = "murmur2"
+hash = "3757837249"
+
+[update]
+[update.curseforge]
+file-id = 2920596
+project-id = 272514
+release-channel = "beta"
