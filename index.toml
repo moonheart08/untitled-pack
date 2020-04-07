@@ -76,6 +76,16 @@ hash = "93d3f66d27fe17fbdf9924d108ddb42bbac8143cdb095c0d353a5cf0590e2583"
 metafile = true
 
 [[files]]
+file = "mods/extra-utilities.toml"
+hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
+metafile = true
+
+[[files]]
+file = "mods/extracells2.toml"
+hash = "152b08cf8b19eaae6f174a29364ee2e66b0e8c6defbc9173ee620580905cb881"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.toml"
 hash = "7ed2d25a5708a4df04ef9bfb7d3ac6ab45e93d77c454f8ee3b0504db40c7a1fb"
 metafile = true
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.toml"
 hash = "7af6486d41f0ee3db9f25ad3d8b9f0933b70a138cea8c651b331d539f8dd7fb7"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.toml"
+hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
 
 [[files]]
