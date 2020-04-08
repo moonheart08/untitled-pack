@@ -1,0 +1,14 @@
+name = "AI Improvements"
+filename = "AIImprovements-1.12-0.0.1b3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2450/734/AIImprovements-1.12-0.0.1b3.jar"
+hash-format = "murmur2"
+hash = "183382139"
+
+[update]
+[update.curseforge]
+file-id = 2450734
+project-id = 233019
+release-channel = "beta"

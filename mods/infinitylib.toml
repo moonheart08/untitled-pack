@@ -1,0 +1,14 @@
+name = "InfinityLib"
+filename = "infinitylib-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2537/265/infinitylib-1.12.0.jar"
+hash-format = "murmur2"
+hash = "1632798813"
+
+[update]
+[update.curseforge]
+file-id = 2537265
+project-id = 251396
+release-channel = "beta"
