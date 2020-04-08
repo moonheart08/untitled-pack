@@ -1,0 +1,14 @@
+name = "Building Gadgets"
+filename = "BuildingGadgets-2.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2904/659/BuildingGadgets-2.8.2.jar"
+hash-format = "murmur2"
+hash = "884053955"
+
+[update]
+[update.curseforge]
+file-id = 2904659
+project-id = 298187
+release-channel = "beta"

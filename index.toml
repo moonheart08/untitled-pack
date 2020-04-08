@@ -1,8 +1,37 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore"
+hash = "e081e9563b8a7840c5b6a285e62674169c357d7f9fb91237d8971b4440f31ad0"
+
+[[files]]
+file = "LICENSE"
+hash = "cf136b478e204ca1a13be6cdeb379b5fbe173cd3d563336959ad151a6b0b9f81"
+
+[[files]]
+file = "config/DankNull.cfg"
+hash = "ae21739cd05091d02e891ebcbc0f054db878dd1c1f2e2ea7fb90be5761c35677"
+
+[[files]]
+file = "config/integrateddynamics.cfg"
+hash = "488e9461da0b04d03183dc57c688319df01fa62e06f5b4f3d9babfbfa93eaaa3"
+
+[[files]]
+file = "config/mekanism.cfg"
+hash = "267a55baaa305eca5a6ba3ab62c2d84a215777db1d4576be5b3070c7c38e28f0"
+
+[[files]]
+file = "export.zip"
+hash = "76f38b0990a1ef34d3593def9e3d306b27bab1b7974747bb845a28c762459b35"
+
+[[files]]
 file = "mods/actually-additions.toml"
 hash = "93ae689c922329e679854659f8385a90e425ff9fadf09b13a3b96d2ea9cd7402"
+metafile = true
+
+[[files]]
+file = "mods/ae2wtlib.toml"
+hash = "7680ac00486839cef6707308453e6adc271abb1aae448aa3b62f1b12c4988e3f"
 metafile = true
 
 [[files]]
@@ -16,13 +45,43 @@ hash = "4294eab4a53211921fa5ed9599cbdd05e7532d99dd7d332bcfd819c13d484926"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.toml"
+hash = "4e444b7a69c2b68ae168caed1a4d345bfa96cfe8671c6206895698cd93c5167e"
+metafile = true
+
+[[files]]
 file = "mods/baubles.toml"
 hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
 metafile = true
 
 [[files]]
+file = "mods/better-builders-wands.toml"
+hash = "15c406534ef41cf22d1446b4a87c6156284c033dc9e2d1774129cb511eeb9395"
+metafile = true
+
+[[files]]
 file = "mods/betterfps.toml"
 hash = "ad54cddb921f8cb3d737cee7eb078a64afc3d32e71e762c65c60660fd72bc69d"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "ee1079260915e7b1caf14afecc7aa9866560c63c14bc18b4bb1d42a957e8ae18"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "2a719781e5ac98fea0825f89cb903628444acaa36af9ca9a06982b1e4a72fc2c"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.toml"
+hash = "0c8fb1975d4eb96fcf5fdaf6cc0f77b2312f24bbbbea9316c424029eb9f047d6"
+metafile = true
+
+[[files]]
+file = "mods/charset-lib.toml"
+hash = "78fcfe0b015eedcc79749929e52359c19b338901cf095ecc53abe0a0ceb98b20"
 metafile = true
 
 [[files]]
@@ -48,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.toml"
 hash = "7dd4f76f4852b832adcf179534d795c68b51969d8794102e45d78d979c2b572f"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.toml"
+hash = "2e60da61af278b5b5df577d7845ee48e193df650248283eafdac10e06e59ada5"
 metafile = true
 
 [[files]]
@@ -96,6 +160,16 @@ hash = "de958b5f0d2e9b876fb4d9f3dc490749600a4d4bba5d3db6499dcecc42a43468"
 metafile = true
 
 [[files]]
+file = "mods/forestry.toml"
+hash = "67307731a34791e71346c2fef46b3be977dbc2a24e8b979a358adf9d0cce2140"
+metafile = true
+
+[[files]]
+file = "mods/forge-multipart-cbe.toml"
+hash = "43f0e754ab26b5434510719dcf9ace01eef1b54df72efc54d962861754261eac"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups.toml"
 hash = "c98b6793744c0c1be408e63bd99962846cbe3b5572304250f0c786c6656789b4"
 metafile = true
@@ -121,6 +195,11 @@ hash = "d24d12b6715372c0a092e35a977a517a378bb7178d6c8f919592f4ee5b7df52c"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.toml"
+hash = "9792756c5d76035a79ad49d5c4097ea4350efeacbe56401baaac2140587cc826"
+metafile = true
+
+[[files]]
 file = "mods/integrated-dynamics.toml"
 hash = "d3da42151535cb16e3fb1a4ddd8924a6fc747514d6601f2f5746f9076804f6c1"
 metafile = true
@@ -137,12 +216,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "dea9bd62c81f293b89370bd554513ff72f150c116de7fd9c03fd7325fc0baba0"
+hash = "4444f05ba74fdead27840945a67881dca141d7c205819a752220ac7690da577a"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
 hash = "551cc046516b696edb073bed4f852d9943da48b384d67a7b840ac02421d2446e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
 
 [[files]]
@@ -153,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.toml"
 hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
+file = "mods/mcmultipart.toml"
+hash = "3447132c422c01185b4983c1fe88bc18e3033af33dec313ee227407ba036954c"
 metafile = true
 
 [[files]]
@@ -177,12 +266,17 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "636b9ba90d3f0b7d739586d0660ce9c8c5ff7d032aabb855a73bd4c1258ae2e2"
+hash = "a31c8db1cf2fe5f9436b8ad9d4783d68fbb72396e560ce6b11f7e79ceed4f54b"
 metafile = true
 
 [[files]]
 file = "mods/mtlib.toml"
 hash = "a9f01e8fbc719c77af8046e10e02a129a1a16008f53c2598109991409d0cfefd"
+metafile = true
+
+[[files]]
+file = "mods/neat.toml"
+hash = "d4025d2389912281fc6171e0310acb7031c5e0f34c74c5cd23cc9de8bc2dd697"
 metafile = true
 
 [[files]]
@@ -201,8 +295,23 @@ hash = "b9b65bf81850b6586eb09df098a8c61d786e30ebb1b9b25c2ec9548abb6df34c"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft.toml"
+hash = "9279822c979aa9490a3bb6a4689ec511e3b7ef928ae8976a2e8c8aae3958d7d0"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.toml"
+hash = "19e54f56be909d7236e88943c3faada5b3388e5438a5b8e0507d8306f6ceb408"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "7af6486d41f0ee3db9f25ad3d8b9f0933b70a138cea8c651b331d539f8dd7fb7"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "5f104a0e52ea0ad489c0501191d13337f980baa74a571171e3052918034ae6cb"
 metafile = true
 
 [[files]]
@@ -218,6 +327,26 @@ metafile = true
 [[files]]
 file = "mods/rftools.toml"
 hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.toml"
+hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
+metafile = true
+
+[[files]]
+file = "mods/simplelogic-wires.toml"
+hash = "1c384ae7eaa353f506deb9391282ac73a67487862ee0f14823dc8308ebf2e25c"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "01e6920869b6430975c76c8fc37aff25c2a5d54dbb54bb430ae7cafe02f90cf6"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.toml"
+hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
 metafile = true
 
 [[files]]
@@ -248,4 +377,9 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.toml"
 hash = "49558b0f4c457a39cc7fa96b6de8ae5bde1254bc0abe54ccf7c8a4335bab2d65"
+metafile = true
+
+[[files]]
+file = "mods/wireless-crafting-terminal.toml"
+hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
 metafile = true

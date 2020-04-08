@@ -1,0 +1,14 @@
+name = "Quark"
+filename = "Quark-r1.6-178.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2889/332/Quark-r1.6-178.jar"
+hash-format = "murmur2"
+hash = "563924219"
+
+[update]
+[update.curseforge]
+file-id = 2889332
+project-id = 243121
+release-channel = "beta"

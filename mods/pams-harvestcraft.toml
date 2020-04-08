@@ -1,0 +1,14 @@
+name = "Pam's HarvestCraft"
+filename = "Pam's HarvestCraft 1.12.2zg.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2904/825/Pam's HarvestCraft 1.12.2zg.jar"
+hash-format = "murmur2"
+hash = "1735713960"
+
+[update]
+[update.curseforge]
+file-id = 2904825
+project-id = 221857
+release-channel = "beta"

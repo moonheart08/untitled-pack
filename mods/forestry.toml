@@ -1,0 +1,14 @@
+name = "Forestry"
+filename = "forestry_1.12.2-5.8.2.422.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2918/418/forestry_1.12.2-5.8.2.422.jar"
+hash-format = "murmur2"
+hash = "1755255769"
+
+[update]
+[update.curseforge]
+file-id = 2918418
+project-id = 59751
+release-channel = "beta"
