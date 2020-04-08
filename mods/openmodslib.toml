@@ -1,0 +1,14 @@
+name = "OpenModsLib"
+filename = "OpenModsLib-1.12.2-0.11.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2510/771/OpenModsLib-1.12.2-0.11.3.jar"
+hash-format = "murmur2"
+hash = "2982789980"
+
+[update]
+[update.curseforge]
+file-id = 2510771
+project-id = 228815
+release-channel = "beta"

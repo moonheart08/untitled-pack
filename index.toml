@@ -273,6 +273,10 @@ file = "config/mekanism.cfg"
 hash = "267a55baaa305eca5a6ba3ab62c2d84a215777db1d4576be5b3070c7c38e28f0"
 
 [[files]]
+file = "config/quark.cfg"
+hash = "169528dcb6e01cf1f95a261ec7ecb704eb6eb0c935b57f90048c2caf3e54c5d3"
+
+[[files]]
 file = "mods/actually-additions.toml"
 hash = "93ae689c922329e679854659f8385a90e425ff9fadf09b13a3b96d2ea9cd7402"
 metafile = true
@@ -353,6 +357,11 @@ hash = "78fcfe0b015eedcc79749929e52359c19b338901cf095ecc53abe0a0ceb98b20"
 metafile = true
 
 [[files]]
+file = "mods/chisel.toml"
+hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.toml"
 hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
 metafile = true
@@ -375,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.toml"
 hash = "7dd4f76f4852b832adcf179534d795c68b51969d8794102e45d78d979c2b572f"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
 metafile = true
 
 [[files]]
@@ -553,8 +567,18 @@ hash = "d4025d2389912281fc6171e0310acb7031c5e0f34c74c5cd23cc9de8bc2dd697"
 metafile = true
 
 [[files]]
+file = "mods/openblocks.toml"
+hash = "77a004aa37ac112119bf97804477a173d3bd0157b69caf1df16f48a057b8993a"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.toml"
 hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+metafile = true
+
+[[files]]
+file = "mods/openmodslib.toml"
+hash = "e6427f70347f17a18d4fb8c8de27a896b3b573518d0234e97c9d67ce39c93aee"
 metafile = true
 
 [[files]]

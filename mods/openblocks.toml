@@ -1,0 +1,14 @@
+name = "OpenBlocks"
+filename = "OpenBlocks-1.12.2-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar"
+hash-format = "murmur2"
+hash = "778518540"
+
+[update]
+[update.curseforge]
+file-id = 2699056
+project-id = 228816
+release-channel = "beta"

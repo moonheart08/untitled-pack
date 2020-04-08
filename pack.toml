@@ -3,7 +3,7 @@ name = "Untitled Pack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6820ed17960ed8f349d17763815b5158c3a1451c9fc23c0c5bb958ac149ba36"
+hash = "3786bb0dd2a986ab0cc48a79e9c03dc410388e3aebabd520779ad284862e1ba0"
 
 [versions]
 forge = "14.23.5.2847"
