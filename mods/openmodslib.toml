@@ -1,14 +1,14 @@
 name = "OpenModsLib"
-filename = "OpenModsLib-1.12.2-0.11.3.jar"
+filename = "OpenModsLib-1.12.2-0.12.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2510/771/OpenModsLib-1.12.2-0.11.3.jar"
+url = "https://edge.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar"
 hash-format = "murmur2"
-hash = "2982789980"
+hash = "1596478407"
 
 [update]
 [update.curseforge]
-file-id = 2510771
+file-id = 2699055
 project-id = 228815
-release-channel = "beta"
+release-channel = "alpha"

@@ -578,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/openmodslib.toml"
-hash = "e6427f70347f17a18d4fb8c8de27a896b3b573518d0234e97c9d67ce39c93aee"
+hash = "84885593e53af4a93c394b6afe572b2d0f06e51883c41cc555a774621fd7b9a6"
 metafile = true
 
 [[files]]
